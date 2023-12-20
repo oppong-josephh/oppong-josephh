@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oppong-josephh&label=Profile%20views&color=0e75b6&style=flat" alt="oppong-josephh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oppong-josephh" alt="oppong-josephh" /></a> </p> <br/> <br/>
+
 
 - 🔭 I’m currently working on **Hensive Health System**
 
